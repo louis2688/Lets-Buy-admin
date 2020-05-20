@@ -1,0 +1,54 @@
+﻿.main_container{
+    width:100%;
+    margin-bottom:2vmin;
+}
+.dropdown-menu > li {
+    border-bottom: 0.5px solid rgba(0,0,0,0.1);
+    margin: 3px;
+    cursor: pointer;
+}
+.category {
+    border-bottom: 0.5px solid rgba(0,0,0,0.2);
+    margin: 3px;
+}
+
+.edit_categories {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom:0;
+    text-align: center;
+    background-color: rgba(0,0,0,0.6);
+    z-index:1000;
+}
+
+._content {
+    margin: 50px auto;
+    max-width: 500px;
+    background-color:white;
+    border-radius:20px;
+    padding:10px;
+
+}
+.list-group {
+    overflow-y: scroll;
+    max-height:400px;
+}
+.logo_input {
+    width: calc(100% - 30px);
+}.attach_icon {
+    width: 30px;
+    margin-left: -6px;
+}
+.search {
+    width: 35%;
+}
+
+.search_icon {
+    width: 30px;
+}
+
+.search_container {
+    margin: 4vmin 0;
+}

@@ -1,0 +1,23 @@
+﻿.main_container{
+    width:100%;
+    margin-bottom:2vmin;
+}
+.pagers{
+    width:100%;
+    text-align:left;
+}
+.checkbox {
+    float: left;
+    width: 4vmin;
+    margin: -3px 5px;
+}
+
+.search {
+    width:35%;
+}
+.search_icon{
+    width:30px;
+}
+.search_container{
+    margin:4vmin 0;
+}

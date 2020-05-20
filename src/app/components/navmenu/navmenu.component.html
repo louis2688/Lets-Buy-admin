@@ -1,0 +1,62 @@
+<div class='main-nav'>
+    <div class='navbar navbar-inverse'>
+        <div class='navbar-header'>
+            <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>
+                <span class='sr-only'>Toggle navigation</span>
+                <span class='icon-bar'></span>
+                <span class='icon-bar'></span>
+                <span class='icon-bar'></span>
+            </button>
+            <a class='navbar-brand' [routerLink]="['/home']">HiLetsBy_UI</a>
+        </div>
+        <div class='clearfix'></div>
+        <div class='navbar-collapse collapse'>
+            <ul class='nav navbar-nav'>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/home']">
+                        <span class='glyphicon glyphicon-home'></span> Home
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/EditCategories']">
+                        <span class='glyphicon'><img src="./assets/images/category icon.png"/></span>  Categories
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/EditFaq']">
+                        <span class='glyphicon'><img src="./assets/images/faq_icon.png" /></span>  FAQ
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/EditSites']">
+                        <span class='glyphicon'><img src="./assets/images/site_icon.png" /></span>  Sites
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                        <a [routerLink]="['/TOU']">
+                            <span class='glyphicon'><img src="./assets/images/User_icon.png" /></span> Terms of Use
+                        </a>
+                    </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/EditUsers']">
+                        <span class='glyphicon'><img src="./assets/images/User_icon.png" /></span> Users
+                    </a>
+                </li>
+                
+                <li>
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class='glyphicon'><img src="./assets/images/reports_icon.png" /></span>Reports
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+                            <li><a [routerLink]="['/ProfitReport']" class="dropdown-item" href="#">Profit Report</a></li>
+                            <li><a [routerLink]="['/LinkReport']" class="dropdown-item" href="#">Link Report</a></li>
+                            <li><a [routerLink]="['/SellsReport']" class="dropdown-item" href="#">Sells Report</a></li>
+                            <li><a [routerLink]="['/TrendsReport']" class="dropdown-item" href="#">Trends Report</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

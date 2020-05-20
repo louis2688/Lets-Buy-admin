@@ -1,0 +1,16 @@
+<div class="main_container">
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand">{{_pageName}}</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li [class]="tabActive==0? 'active': ''" (click)="TabChecked(0)"><a>Add New Item</a></li>
+                <li [class]="tabActive==1? 'active': ''" (click)="TabChecked(1)"><a>Update Item</a></li>
+                <li [class]="tabActive==2? 'active': ''" (click)="TabChecked(2)"><a>Delete Item</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    
+</div>

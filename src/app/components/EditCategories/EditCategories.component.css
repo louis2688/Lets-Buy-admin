@@ -1,0 +1,11 @@
+﻿.main_container{
+    width:100%;
+    margin-bottom:2vmin;
+}
+.sub_cat_container{
+    margin-bottom:5px;
+}
+.add_icon{
+    border-radius:50%;
+    width:6vmin;
+}

@@ -1,0 +1,41 @@
+<div class="main_container">
+    <h2 class="title">Links Report</h2>
+    <p>Here you can watch links details, and show leads.</p>
+
+    <div class="form-inline search_container">
+        <img src="./assets/images/search.png" class="search_icon" />
+        <input class="search form-control" type="text" placeholder="Search about link" [(ngModel)]="searchInput" />
+        <button type="button" class="btn btn-info" (click)="SetSearchInput()">Search</button>
+    </div>
+
+    <div class="general container col-sm-12">
+        <h3>Links</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>User Name</th>
+                    <th>Site</th>
+                    <th>Url</th>
+                    <th>Leads Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of items">
+                    <td>{{item.userName}}</td>
+                    <td>{{item.site}}</td>
+                    <td class="url">{{item.url}}</td>
+                    <td>{{item.leads}}</td>
+                    <td>
+                        <button type="button" class="btn btn-primary" (click)="ShowLeads(item.id)">Show Leads</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="pagers">
+        <ul class="pagination">
+            <li *ngFor="let i of pages"><a (click)="GetPage(i)">{{i+1}}</a></li>
+        </ul>
+    </div>
+    <Toast></Toast>
+</div>

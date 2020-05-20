@@ -1,0 +1,37 @@
+<div class="main_container">
+    <h2 class="title">Trends Report</h2>
+    <p>Here you can search and watch trends details</p>
+
+    <div class="form-inline search_container">
+        <img src="./assets/images/search.png" class="search_icon" />
+        <input class="search form-control" type="text" placeholder="Search about trend" [(ngModel)]="searchInput" />
+        <button type="button" class="btn btn-info" (click)="SetSearchInput()">Search</button>
+    </div>
+
+    <div class="general container col-sm-12">
+        <h3>Trends</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Category Name</th>
+                    <th>Sum Of Links</th>
+                    <th>Sum Of Leads</th>
+                    <th>Sum Of Sells</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of items">
+                    <td>{{item.category}}</td>
+                    <td>{{item.linksAmount}}</td>
+                    <td>{{item.leadsAmount}}</td>
+                    <td>{{item.sellsAmount}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="pagers">
+        <ul class="pagination">
+            <li *ngFor="let i of pages"><a (click)="GetPage(i)">{{i+1}}</a></li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,345 @@
+2019-08-20T10:45:33.973Z - info:   [10636] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-08-20T10:45:33.974Z - info:   [10636] AzureReposVSCode/1.149.2 (VSCode 1.37.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-08-20T10:45:33.982Z - debug:  [10636] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-20T10:45:33.982Z - debug:  [10636] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-20T10:45:33.994Z - debug:  [10636] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-08-20T10:45:33.994Z - debug:  [10636] TFVC Creating Tfvc object with localPath='undefined'
+2019-08-20T10:45:33.995Z - debug:  [10636] Using TFS proxy: 
+2019-08-20T10:45:33.995Z - debug:  [10636] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-08-20T10:45:33.995Z - debug:  [10636] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-08-20T10:45:33.996Z - debug:  [10636] TFVC Repository.CheckVersion
+2019-08-20T10:45:33.996Z - debug:  [10636] TFVC: tf add -noprompt -?
+2019-08-20T10:45:34.024Z - debug:  [10636] TFVC: spawned new process (duration: 28ms)
+2019-08-20T10:45:34.033Z - debug:  [10636] TFVC: spawned new process (duration: 8ms)
+2019-08-20T10:45:34.992Z - debug:  [10636] TFVC: add exit code: 0 (duration: 996ms)
+2019-08-20T10:45:34.993Z - debug:  [10636] TFVC Minimum required version: 14.102.0
+2019-08-20T10:45:34.993Z - debug:  [10636] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-08-20T10:45:34.993Z - debug:  [10636] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-08-20T10:45:34.993Z - debug:  [10636] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-08-20T10:45:35.002Z - debug:  [10636] TFVC: spawned new process (duration: 8ms)
+2019-08-20T10:45:35.507Z - debug:  [10636] TFVC: workfold exit code: 100 (duration: 512ms)
+2019-08-20T10:45:35.508Z - debug:  [10636] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2019-08-20T10:45:35.508Z - error:  [10636] Execution of the TFVC command line failed unexpectedly.
+2019-08-21T06:03:21.265Z - info:   [12840] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-08-21T06:03:21.267Z - info:   [12840] AzureReposVSCode/1.149.2 (VSCode 1.37.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-08-21T06:03:21.267Z - debug:  [12840] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-21T06:03:21.267Z - debug:  [12840] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-21T06:03:21.271Z - debug:  [12840] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-08-21T06:03:21.271Z - debug:  [12840] TFVC Creating Tfvc object with localPath='undefined'
+2019-08-21T06:03:21.272Z - debug:  [12840] Using TFS proxy: 
+2019-08-21T06:03:21.272Z - debug:  [12840] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-08-21T06:03:21.272Z - debug:  [12840] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-08-21T06:03:21.276Z - debug:  [12840] TFVC Repository.CheckVersion
+2019-08-21T06:03:21.277Z - debug:  [12840] TFVC: tf add -noprompt -?
+2019-08-21T06:03:21.285Z - debug:  [12840] TFVC: spawned new process (duration: 8ms)
+2019-08-21T06:03:21.294Z - debug:  [12840] TFVC: spawned new process (duration: 8ms)
+2019-08-21T06:03:22.180Z - debug:  [12840] TFVC: add exit code: 0 (duration: 903ms)
+2019-08-21T06:03:22.181Z - debug:  [12840] TFVC Minimum required version: 14.102.0
+2019-08-21T06:03:22.181Z - debug:  [12840] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-08-21T06:03:22.181Z - debug:  [12840] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-08-21T06:03:22.182Z - debug:  [12840] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-08-21T06:03:22.192Z - debug:  [12840] TFVC: spawned new process (duration: 10ms)
+2019-08-21T06:03:22.623Z - debug:  [12840] TFVC: workfold exit code: 100 (duration: 441ms)
+2019-08-21T06:03:22.625Z - debug:  [12840] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2019-08-21T06:03:22.625Z - error:  [12840] Execution of the TFVC command line failed unexpectedly.
+2019-08-22T06:50:37.329Z - info:   [13928] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-08-22T06:50:37.329Z - info:   [13928] AzureReposVSCode/1.149.2 (VSCode 1.37.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-08-22T06:50:37.329Z - debug:  [13928] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-22T06:50:37.330Z - debug:  [13928] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-22T06:50:37.334Z - debug:  [13928] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-08-22T06:50:37.334Z - debug:  [13928] TFVC Creating Tfvc object with localPath='undefined'
+2019-08-22T06:50:37.335Z - debug:  [13928] Using TFS proxy: 
+2019-08-22T06:50:37.335Z - debug:  [13928] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-08-22T06:50:37.335Z - debug:  [13928] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-08-22T06:50:37.336Z - debug:  [13928] TFVC Repository.CheckVersion
+2019-08-22T06:50:37.336Z - debug:  [13928] TFVC: tf add -noprompt -?
+2019-08-22T06:50:37.355Z - debug:  [13928] TFVC: spawned new process (duration: 19ms)
+2019-08-22T06:50:37.369Z - debug:  [13928] TFVC: spawned new process (duration: 13ms)
+2019-08-22T06:50:37.953Z - debug:  [13928] TFVC: add exit code: 0 (duration: 617ms)
+2019-08-22T06:50:37.954Z - debug:  [13928] TFVC Minimum required version: 14.102.0
+2019-08-22T06:50:37.954Z - debug:  [13928] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-08-22T06:50:37.954Z - debug:  [13928] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-08-22T06:50:37.954Z - debug:  [13928] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-08-22T06:50:37.971Z - debug:  [13928] TFVC: spawned new process (duration: 16ms)
+2019-08-22T06:50:38.351Z - debug:  [13928] TFVC: workfold exit code: 100 (duration: 396ms)
+2019-08-22T06:50:38.352Z - debug:  [13928] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2019-08-22T06:50:38.352Z - error:  [13928] Execution of the TFVC command line failed unexpectedly.
+2019-08-22T10:33:24.146Z - info:   [17956] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-08-22T10:33:24.147Z - info:   [17956] AzureReposVSCode/1.149.2 (VSCode 1.37.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-08-22T10:33:24.147Z - debug:  [17956] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-22T10:33:24.147Z - debug:  [17956] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-22T10:33:24.153Z - debug:  [17956] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-08-22T10:33:24.153Z - debug:  [17956] TFVC Creating Tfvc object with localPath='undefined'
+2019-08-22T10:33:24.153Z - debug:  [17956] Using TFS proxy: 
+2019-08-22T10:33:24.153Z - debug:  [17956] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-08-22T10:33:24.154Z - debug:  [17956] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-08-22T10:33:24.156Z - debug:  [17956] TFVC Repository.CheckVersion
+2019-08-22T10:33:24.156Z - debug:  [17956] TFVC: tf add -noprompt -?
+2019-08-22T10:33:24.169Z - debug:  [17956] TFVC: spawned new process (duration: 12ms)
+2019-08-22T10:33:24.178Z - debug:  [17956] TFVC: spawned new process (duration: 8ms)
+2019-08-22T10:33:24.839Z - debug:  [17956] TFVC: add exit code: 0 (duration: 683ms)
+2019-08-22T10:33:24.839Z - debug:  [17956] TFVC Minimum required version: 14.102.0
+2019-08-22T10:33:24.839Z - debug:  [17956] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-08-22T10:33:24.840Z - debug:  [17956] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-08-22T10:33:24.840Z - debug:  [17956] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-08-22T10:33:24.851Z - debug:  [17956] TFVC: spawned new process (duration: 11ms)
+2019-08-22T10:33:25.307Z - debug:  [17956] TFVC: workfold exit code: 100 (duration: 467ms)
+2019-08-22T10:33:25.308Z - debug:  [17956] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2019-08-22T10:33:25.308Z - error:  [17956] Execution of the TFVC command line failed unexpectedly.
+2019-08-26T05:06:21.423Z - info:   [01048] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-08-26T05:06:21.423Z - info:   [01048] AzureReposVSCode/1.149.2 (VSCode 1.37.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-08-26T05:06:21.423Z - debug:  [01048] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-26T05:06:21.423Z - debug:  [01048] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-08-26T05:06:21.451Z - debug:  [01048] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-08-26T05:06:21.452Z - debug:  [01048] TFVC Creating Tfvc object with localPath='undefined'
+2019-08-26T05:06:21.452Z - debug:  [01048] Using TFS proxy: 
+2019-08-26T05:06:21.452Z - debug:  [01048] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-08-26T05:06:21.452Z - debug:  [01048] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-08-26T05:06:21.453Z - debug:  [01048] TFVC Repository.CheckVersion
+2019-08-26T05:06:21.453Z - debug:  [01048] TFVC: tf add -noprompt -?
+2019-08-26T05:06:21.469Z - debug:  [01048] TFVC: spawned new process (duration: 16ms)
+2019-08-26T05:06:21.477Z - debug:  [01048] TFVC: spawned new process (duration: 8ms)
+2019-08-26T05:06:22.199Z - debug:  [01048] TFVC: add exit code: 0 (duration: 746ms)
+2019-08-26T05:06:22.199Z - debug:  [01048] TFVC Minimum required version: 14.102.0
+2019-08-26T05:06:22.199Z - debug:  [01048] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-08-26T05:06:22.200Z - debug:  [01048] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-08-26T05:06:22.200Z - debug:  [01048] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-08-26T05:06:22.209Z - debug:  [01048] TFVC: spawned new process (duration: 8ms)
+2019-08-26T05:06:22.821Z - debug:  [01048] TFVC: workfold exit code: 100 (duration: 621ms)
+2019-08-26T05:06:22.822Z - debug:  [01048] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2019-08-26T05:06:22.822Z - error:  [01048] Execution of the TFVC command line failed unexpectedly.
+2019-09-09T06:41:16.909Z - info:   [14988] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-09-09T06:41:16.921Z - info:   [14988] AzureReposVSCode/1.149.2 (VSCode 1.38.0; Windows_NT 10.0.17134; Node 10.11.0)
+2019-09-09T06:41:16.921Z - debug:  [14988] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-09-09T06:41:16.921Z - debug:  [14988] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-09-09T06:41:16.925Z - debug:  [14988] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-09-09T06:41:16.925Z - debug:  [14988] TFVC Creating Tfvc object with localPath='undefined'
+2019-09-09T06:41:16.926Z - debug:  [14988] Using TFS proxy: 
+2019-09-09T06:41:16.926Z - debug:  [14988] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-09-09T06:41:16.927Z - debug:  [14988] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-09-09T06:41:16.929Z - debug:  [14988] TFVC Repository.CheckVersion
+2019-09-09T06:41:16.930Z - debug:  [14988] TFVC: tf add -noprompt -?
+2019-09-09T06:41:16.937Z - debug:  [14988] TFVC: spawned new process (duration: 7ms)
+2019-09-09T06:41:16.943Z - debug:  [14988] TFVC: spawned new process (duration: 6ms)
+2019-09-09T06:41:17.562Z - debug:  [14988] TFVC: add exit code: 0 (duration: 632ms)
+2019-09-09T06:41:17.563Z - debug:  [14988] TFVC Minimum required version: 14.102.0
+2019-09-09T06:41:17.563Z - debug:  [14988] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-09-09T06:41:17.563Z - debug:  [14988] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-09-09T06:41:17.563Z - debug:  [14988] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-09-09T06:41:17.569Z - debug:  [14988] TFVC: spawned new process (duration: 5ms)
+2019-09-09T06:41:17.969Z - debug:  [14988] TFVC: workfold exit code: 100 (duration: 406ms)
+2019-09-09T06:41:17.970Z - debug:  [14988] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2019-09-09T06:41:17.970Z - error:  [14988] Execution of the TFVC command line failed unexpectedly.
+2019-10-15T08:09:32.833Z - info:   [20020] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-10-15T08:09:32.840Z - info:   [20020] AzureReposVSCode/1.149.2 (VSCode 1.39.1; Windows_NT 10.0.17134; Node 10.11.0)
+2019-10-15T08:09:32.841Z - debug:  [20020] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-10-15T08:09:32.841Z - debug:  [20020] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-10-15T08:09:32.848Z - debug:  [20020] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-10-15T08:09:32.848Z - debug:  [20020] TFVC Creating Tfvc object with localPath='undefined'
+2019-10-15T08:09:32.849Z - debug:  [20020] Using TFS proxy: 
+2019-10-15T08:09:32.849Z - debug:  [20020] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-10-15T08:09:32.850Z - debug:  [20020] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-10-15T08:09:32.850Z - debug:  [20020] TFVC Repository.CheckVersion
+2019-10-15T08:09:32.850Z - debug:  [20020] TFVC: tf add -noprompt -?
+2019-10-15T08:09:32.865Z - debug:  [20020] TFVC: spawned new process (duration: 14ms)
+2019-10-15T08:09:32.881Z - debug:  [20020] TFVC: spawned new process (duration: 16ms)
+2019-10-15T08:09:33.625Z - debug:  [20020] TFVC: add exit code: 0 (duration: 774ms)
+2019-10-15T08:09:33.626Z - debug:  [20020] TFVC Minimum required version: 14.102.0
+2019-10-15T08:09:33.626Z - debug:  [20020] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-10-15T08:09:33.626Z - debug:  [20020] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-10-15T08:09:33.626Z - debug:  [20020] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-10-15T08:09:33.652Z - debug:  [20020] TFVC: spawned new process (duration: 25ms)
+2019-10-15T08:09:33.845Z - debug:  [20020] TFVC: workfold exit code: 100 (duration: 219ms)
+2019-10-15T08:09:33.846Z - debug:  [20020] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-10-15T08:09:33.846Z - error:  [20020] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-10-24T06:40:05.192Z - info:   [13820] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-10-24T06:40:05.193Z - info:   [13820] AzureReposVSCode/1.149.2 (VSCode 1.39.2; Windows_NT 10.0.17134; Node 10.11.0)
+2019-10-24T06:40:05.194Z - debug:  [13820] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-10-24T06:40:05.194Z - debug:  [13820] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-10-24T06:40:05.202Z - debug:  [13820] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-10-24T06:40:05.202Z - debug:  [13820] TFVC Creating Tfvc object with localPath='undefined'
+2019-10-24T06:40:05.203Z - debug:  [13820] Using TFS proxy: 
+2019-10-24T06:40:05.203Z - debug:  [13820] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-10-24T06:40:05.203Z - debug:  [13820] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-10-24T06:40:05.204Z - debug:  [13820] TFVC Repository.CheckVersion
+2019-10-24T06:40:05.204Z - debug:  [13820] TFVC: tf add -noprompt -?
+2019-10-24T06:40:05.209Z - debug:  [13820] TFVC: spawned new process (duration: 5ms)
+2019-10-24T06:40:05.219Z - debug:  [13820] TFVC: spawned new process (duration: 9ms)
+2019-10-24T06:40:05.804Z - debug:  [13820] TFVC: add exit code: 0 (duration: 600ms)
+2019-10-24T06:40:05.804Z - debug:  [13820] TFVC Minimum required version: 14.102.0
+2019-10-24T06:40:05.805Z - debug:  [13820] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-10-24T06:40:05.805Z - debug:  [13820] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-10-24T06:40:05.805Z - debug:  [13820] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-10-24T06:40:05.820Z - debug:  [13820] TFVC: spawned new process (duration: 15ms)
+2019-10-24T06:40:05.917Z - debug:  [13820] TFVC: workfold exit code: 100 (duration: 112ms)
+2019-10-24T06:40:05.918Z - debug:  [13820] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-10-24T06:40:05.918Z - error:  [13820] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-11-04T04:59:51.013Z - info:   [10496] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-11-04T04:59:51.015Z - info:   [10496] AzureReposVSCode/1.149.2 (VSCode 1.39.2; Windows_NT 10.0.17134; Node 10.11.0)
+2019-11-04T04:59:51.016Z - debug:  [10496] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T04:59:51.016Z - debug:  [10496] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T04:59:51.047Z - debug:  [10496] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-11-04T04:59:51.047Z - debug:  [10496] TFVC Creating Tfvc object with localPath='undefined'
+2019-11-04T04:59:51.047Z - debug:  [10496] Using TFS proxy: 
+2019-11-04T04:59:51.048Z - debug:  [10496] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-11-04T04:59:51.048Z - debug:  [10496] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T04:59:51.049Z - debug:  [10496] TFVC Repository.CheckVersion
+2019-11-04T04:59:51.049Z - debug:  [10496] TFVC: tf add -noprompt -?
+2019-11-04T04:59:51.081Z - debug:  [10496] TFVC: spawned new process (duration: 32ms)
+2019-11-04T04:59:51.104Z - debug:  [10496] TFVC: spawned new process (duration: 22ms)
+2019-11-04T04:59:51.948Z - debug:  [10496] TFVC: add exit code: 0 (duration: 899ms)
+2019-11-04T04:59:51.949Z - debug:  [10496] TFVC Minimum required version: 14.102.0
+2019-11-04T04:59:51.949Z - debug:  [10496] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-11-04T04:59:51.949Z - debug:  [10496] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T04:59:51.949Z - debug:  [10496] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-11-04T04:59:51.974Z - debug:  [10496] TFVC: spawned new process (duration: 24ms)
+2019-11-04T04:59:52.097Z - debug:  [10496] TFVC: workfold exit code: 100 (duration: 148ms)
+2019-11-04T04:59:52.097Z - debug:  [10496] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-11-04T04:59:52.098Z - error:  [10496] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-11-04T06:39:02.749Z - info:   [13432] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-11-04T06:39:02.750Z - info:   [13432] AzureReposVSCode/1.149.2 (VSCode 1.39.2; Windows_NT 10.0.17134; Node 10.11.0)
+2019-11-04T06:39:02.750Z - debug:  [13432] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T06:39:02.751Z - debug:  [13432] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T06:39:02.770Z - debug:  [13432] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-11-04T06:39:02.771Z - debug:  [13432] TFVC Creating Tfvc object with localPath='undefined'
+2019-11-04T06:39:02.771Z - debug:  [13432] Using TFS proxy: 
+2019-11-04T06:39:02.771Z - debug:  [13432] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-11-04T06:39:02.772Z - debug:  [13432] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T06:39:02.773Z - debug:  [13432] TFVC Repository.CheckVersion
+2019-11-04T06:39:02.773Z - debug:  [13432] TFVC: tf add -noprompt -?
+2019-11-04T06:39:02.881Z - debug:  [13432] TFVC: spawned new process (duration: 108ms)
+2019-11-04T06:39:02.989Z - debug:  [13432] TFVC: spawned new process (duration: 107ms)
+2019-11-04T06:39:04.857Z - debug:  [13432] TFVC: add exit code: 0 (duration: 2084ms)
+2019-11-04T06:39:04.858Z - debug:  [13432] TFVC Minimum required version: 14.102.0
+2019-11-04T06:39:04.858Z - debug:  [13432] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-11-04T06:39:04.858Z - debug:  [13432] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T06:39:04.858Z - debug:  [13432] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-11-04T06:39:04.892Z - debug:  [13432] TFVC: spawned new process (duration: 34ms)
+2019-11-04T06:39:05.139Z - debug:  [13432] TFVC: workfold exit code: 100 (duration: 281ms)
+2019-11-04T06:39:05.140Z - debug:  [13432] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-11-04T06:39:05.141Z - error:  [13432] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-11-04T08:10:59.272Z - info:   [14304] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-11-04T08:10:59.274Z - info:   [14304] AzureReposVSCode/1.149.2 (VSCode 1.39.2; Windows_NT 10.0.17134; Node 10.11.0)
+2019-11-04T08:10:59.274Z - debug:  [14304] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T08:10:59.274Z - debug:  [14304] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T08:10:59.335Z - debug:  [14304] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-11-04T08:10:59.336Z - debug:  [14304] TFVC Creating Tfvc object with localPath='undefined'
+2019-11-04T08:10:59.336Z - debug:  [14304] Using TFS proxy: 
+2019-11-04T08:10:59.336Z - debug:  [14304] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-11-04T08:10:59.337Z - debug:  [14304] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T08:10:59.337Z - debug:  [14304] TFVC Repository.CheckVersion
+2019-11-04T08:10:59.338Z - debug:  [14304] TFVC: tf add -noprompt -?
+2019-11-04T08:10:59.397Z - debug:  [14304] TFVC: spawned new process (duration: 59ms)
+2019-11-04T08:10:59.431Z - debug:  [14304] TFVC: spawned new process (duration: 33ms)
+2019-11-04T08:11:00.543Z - debug:  [14304] TFVC: add exit code: 0 (duration: 1205ms)
+2019-11-04T08:11:00.544Z - debug:  [14304] TFVC Minimum required version: 14.102.0
+2019-11-04T08:11:00.544Z - debug:  [14304] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-11-04T08:11:00.544Z - debug:  [14304] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T08:11:00.544Z - debug:  [14304] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-11-04T08:11:00.591Z - debug:  [14304] TFVC: spawned new process (duration: 46ms)
+2019-11-04T08:11:00.785Z - debug:  [14304] TFVC: workfold exit code: 100 (duration: 241ms)
+2019-11-04T08:11:00.786Z - debug:  [14304] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-11-04T08:11:00.786Z - error:  [14304] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-11-04T09:32:37.789Z - info:   [13788] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-11-04T09:32:37.790Z - info:   [13788] AzureReposVSCode/1.149.2 (VSCode 1.39.2; Windows_NT 10.0.17134; Node 10.11.0)
+2019-11-04T09:32:37.790Z - debug:  [13788] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T09:32:37.790Z - debug:  [13788] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-04T09:32:37.825Z - debug:  [13788] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-11-04T09:32:37.826Z - debug:  [13788] TFVC Creating Tfvc object with localPath='undefined'
+2019-11-04T09:32:37.826Z - debug:  [13788] Using TFS proxy: 
+2019-11-04T09:32:37.826Z - debug:  [13788] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-11-04T09:32:37.827Z - debug:  [13788] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T09:32:37.828Z - debug:  [13788] TFVC Repository.CheckVersion
+2019-11-04T09:32:37.828Z - debug:  [13788] TFVC: tf add -noprompt -?
+2019-11-04T09:32:37.858Z - debug:  [13788] TFVC: spawned new process (duration: 30ms)
+2019-11-04T09:32:37.891Z - debug:  [13788] TFVC: spawned new process (duration: 33ms)
+2019-11-04T09:32:38.918Z - debug:  [13788] TFVC: add exit code: 0 (duration: 1090ms)
+2019-11-04T09:32:38.918Z - debug:  [13788] TFVC Minimum required version: 14.102.0
+2019-11-04T09:32:38.918Z - debug:  [13788] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-11-04T09:32:38.919Z - debug:  [13788] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-11-04T09:32:38.919Z - debug:  [13788] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-11-04T09:32:38.948Z - debug:  [13788] TFVC: spawned new process (duration: 29ms)
+2019-11-04T09:32:39.078Z - debug:  [13788] TFVC: workfold exit code: 100 (duration: 159ms)
+2019-11-04T09:32:39.079Z - debug:  [13788] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-11-04T09:32:39.079Z - error:  [13788] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-11-06T06:57:36.467Z - info:   [14840] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-11-06T06:57:36.468Z - info:   [14840] AzureReposVSCode/1.149.2 (VSCode 1.39.2; Windows_NT 10.0.17134; Node 10.11.0)
+2019-11-06T06:57:36.468Z - debug:  [14840] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-06T06:57:36.468Z - debug:  [14840] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-11-06T06:57:36.510Z - debug:  [14840] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-11-06T06:57:36.510Z - debug:  [14840] TFVC Creating Tfvc object with localPath='undefined'
+2019-11-06T06:57:36.510Z - debug:  [14840] Using TFS proxy: 
+2019-11-06T06:57:36.511Z - debug:  [14840] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-11-06T06:57:36.511Z - debug:  [14840] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-11-06T06:57:36.512Z - debug:  [14840] TFVC Repository.CheckVersion
+2019-11-06T06:57:36.512Z - debug:  [14840] TFVC: tf add -noprompt -?
+2019-11-06T06:57:36.550Z - debug:  [14840] TFVC: spawned new process (duration: 34ms)
+2019-11-06T06:57:36.592Z - debug:  [14840] TFVC: spawned new process (duration: 42ms)
+2019-11-06T06:57:37.817Z - debug:  [14840] TFVC: add exit code: 0 (duration: 1305ms)
+2019-11-06T06:57:37.817Z - debug:  [14840] TFVC Minimum required version: 14.102.0
+2019-11-06T06:57:37.817Z - debug:  [14840] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-11-06T06:57:37.817Z - debug:  [14840] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-11-06T06:57:37.818Z - debug:  [14840] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-11-06T06:57:37.851Z - debug:  [14840] TFVC: spawned new process (duration: 33ms)
+2019-11-06T06:57:38.026Z - debug:  [14840] TFVC: workfold exit code: 100 (duration: 208ms)
+2019-11-06T06:57:38.026Z - debug:  [14840] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-11-06T06:57:38.027Z - error:  [14840] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-12-03T04:42:35.007Z - info:   [12784] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2019-12-03T04:42:35.009Z - info:   [12784] AzureReposVSCode/1.161.0 (VSCode 1.40.2; Windows_NT 10.0.17134; Node 12.4.0)
+2019-12-03T04:42:35.009Z - debug:  [12784] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2019-12-03T04:42:35.010Z - debug:  [12784] No External Context at c:\Projects\letsbuy\letsbuycms
+2019-12-03T04:42:35.033Z - debug:  [12784] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2019-12-03T04:42:35.033Z - debug:  [12784] TFVC Creating Tfvc object with localPath='undefined'
+2019-12-03T04:42:35.034Z - debug:  [12784] Using TFS proxy: 
+2019-12-03T04:42:35.034Z - debug:  [12784] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-12-03T04:42:35.035Z - debug:  [12784] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2019-12-03T04:42:35.036Z - debug:  [12784] TFVC Repository.CheckVersion
+2019-12-03T04:42:35.036Z - debug:  [12784] TFVC: tf add -noprompt -?
+2019-12-03T04:42:35.057Z - debug:  [12784] TFVC: spawned new process (duration: 20ms)
+2019-12-03T04:42:35.087Z - debug:  [12784] TFVC: spawned new process (duration: 29ms)
+2019-12-03T04:42:36.115Z - debug:  [12784] TFVC: add exit code: 0 (duration: 1078ms)
+2019-12-03T04:42:36.116Z - debug:  [12784] TFVC Minimum required version: 14.102.0
+2019-12-03T04:42:36.116Z - debug:  [12784] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2019-12-03T04:42:36.117Z - debug:  [12784] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2019-12-03T04:42:36.117Z - debug:  [12784] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2019-12-03T04:42:36.131Z - debug:  [12784] TFVC: spawned new process (duration: 13ms)
+2019-12-03T04:42:37.169Z - debug:  [12784] TFVC: workfold exit code: 100 (duration: 1052ms)
+2019-12-03T04:42:37.170Z - debug:  [12784] TFVC errors (via stderr): There is no working folder mapping for c:\Projects\letsbuy\letsbuycms.
+
+2019-12-03T04:42:37.171Z - error:  [12784] Execution of the TFVC command line failed unexpectedly.
+2020-01-27T11:57:21.501Z - info:   [18908] *** FOLDER: c:\Projects\letsbuy\letsbuycms ***
+2020-01-27T11:57:21.502Z - info:   [18908] AzureReposVSCode/1.161.0 (VSCode 1.41.1; Windows_NT 10.0.17134; Node 12.4.0)
+2020-01-27T11:57:21.502Z - debug:  [18908] Looking for an External Context at c:\Projects\letsbuy\letsbuycms
+2020-01-27T11:57:21.502Z - debug:  [18908] No External Context at c:\Projects\letsbuy\letsbuycms
+2020-01-27T11:57:21.534Z - debug:  [18908] Looking for TFVC repository at c:\Projects\letsbuy\letsbuycms
+2020-01-27T11:57:21.534Z - debug:  [18908] TFVC Creating Tfvc object with localPath='undefined'
+2020-01-27T11:57:21.534Z - debug:  [18908] Using TFS proxy: 
+2020-01-27T11:57:21.535Z - debug:  [18908] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2020-01-27T11:57:21.535Z - debug:  [18908] TFVC Repository created with repositoryRootFolder='c:\Projects\letsbuy\letsbuycms'
+2020-01-27T11:57:21.536Z - debug:  [18908] TFVC Repository.CheckVersion
+2020-01-27T11:57:21.536Z - debug:  [18908] TFVC: tf add -noprompt -?
+2020-01-27T11:57:21.560Z - debug:  [18908] TFVC: spawned new process (duration: 23ms)
+2020-01-27T11:57:21.616Z - debug:  [18908] TFVC: spawned new process (duration: 56ms)
+2020-01-27T11:57:22.175Z - debug:  [18908] TFVC: add exit code: 0 (duration: 639ms)
+2020-01-27T11:57:22.176Z - debug:  [18908] TFVC Minimum required version: 14.102.0
+2020-01-27T11:57:22.176Z - debug:  [18908] TFVC (TF.exe, TF.cmd) version: 15.129.29514.2
+2020-01-27T11:57:22.176Z - debug:  [18908] TFVC Repository.FindWorkspace with localPath='c:\Projects\letsbuy\letsbuycms'
+2020-01-27T11:57:22.176Z - debug:  [18908] TFVC: tf workfold -noprompt c:\Projects\letsbuy\letsbuycms
+2020-01-27T11:57:22.191Z - debug:  [18908] TFVC: spawned new process (duration: 14ms)
+2020-01-27T11:57:22.495Z - debug:  [18908] TFVC: workfold exit code: 100 (duration: 319ms)
+2020-01-27T11:57:22.496Z - debug:  [18908] TFVC errors (via stderr): There is no working folder mapping for c:\Projects\letsbuy\letsbuycms.
+
+2020-01-27T11:57:22.497Z - error:  [18908] Execution of the TFVC command line failed unexpectedly.

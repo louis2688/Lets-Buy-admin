@@ -1,0 +1,58 @@
+<div class="main_container">
+    <h2 class="title">Sells Report</h2>
+    <p>Here you can search and watch on sells details.</p>
+
+    <div class="form-inline search_container">
+        <img src="./assets/images/search.png" class="search_icon" />
+        <input class="search form-control" type="text" placeholder="Search about sale" [(ngModel)]="searchInput" />
+        <button type="button" class="btn btn-info" (click)="SetSearchInput()">Search</button>
+    </div>
+    <div class="general container col-sm-12">
+            <h3>Home</h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Adviser Name</th>
+                        <th>7 Days</th>
+                        <th>30 Days</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr >
+                        <td>{{home.name}}</td>
+                        <td>{{home.sevenDays}}</td>
+                        <td>{{home.thirtyDays}}</td>
+                        <td>{{home.year}}$</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    <div class="general container col-sm-12">
+        <h3>Sells</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Adviser Name</th>
+                    <th>7 Days</th>
+                    <th>30 Days</th>
+                    <th>Year</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of items">
+                    <td>{{item.name}}</td>
+                    <td>{{item.sevenDays}}</td>
+                    <td>{{item.thirtyDays}}</td>
+                    <td>{{item.year}}$</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="pagers">
+        <ul class="pagination">
+            <li *ngFor="let i of pages"><a (click)="GetPage(i)">{{i+1}}</a></li>
+        </ul>
+    </div>
+    <Toast></Toast>
+</div>
